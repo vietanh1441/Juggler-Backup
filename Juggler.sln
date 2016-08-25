@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{46450643-39A3-75D5-EA11-7A94503EFC1F}") = "Juggler", "Assembly-CSharp.csproj", "{1F00096E-EF90-543E-802F-113CF2D10B63}"
+EndProject
+Project("{46450643-39A3-75D5-EA11-7A94503EFC1F}") = "Juggler", "Assembly-CSharp-Editor.csproj", "{0201CB78-AB52-EFCD-FB48-F4DEF2FD8067}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F00096E-EF90-543E-802F-113CF2D10B63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F00096E-EF90-543E-802F-113CF2D10B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F00096E-EF90-543E-802F-113CF2D10B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F00096E-EF90-543E-802F-113CF2D10B63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0201CB78-AB52-EFCD-FB48-F4DEF2FD8067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0201CB78-AB52-EFCD-FB48-F4DEF2FD8067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0201CB78-AB52-EFCD-FB48-F4DEF2FD8067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0201CB78-AB52-EFCD-FB48-F4DEF2FD8067}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
